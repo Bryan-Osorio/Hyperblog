@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor{
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid gray;
+    padding: 20px;
+    box-shadow: 2px 2px 10px #000;
+    border-radius: 10px;
+    transition: all 400ms linear;
+    margin-top: 3rem;
+}
+
+h1{
+    text-align: center;
+    background-color: darkcyan;
+    padding: 10px 0;
+    color: #333;
+}
+
+.contenedor:hover{
+    transform: scale(1.1);
+}
