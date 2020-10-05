@@ -1,5 +1,6 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkorchid;
 }
 
 .contenedor{
@@ -11,6 +12,7 @@ body{
     border-radius: 10px;
     transition: all 400ms linear;
     margin-top: 3rem;
+    background-color: #fff;
 }
 
 h1{
